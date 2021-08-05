@@ -27,7 +27,7 @@
   "devDependencies": {
     "browser-sync": "^2.14.0",
     "chai": "^3.5.0",
-    "cordova-lib": "^6.3.0",
+    "cordova-lib": "^9.0.0",
     "del": "^2.2.1",
     "dev-ip": "^1.0.1",
     "gulp": "^3.9.1",
