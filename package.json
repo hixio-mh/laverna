@@ -43,7 +43,7 @@
     "gulp-manifest": "^0.1.1",
     "gulp-mocha-phantomjs": "^0.11.0",
     "gulp-mocha-selenium": "^1.0.0",
-    "gulp-nightwatch": "^0.3.0",
+    "gulp-nightwatch": "^1.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
     "gulp-requirejs-optimize": "^1.2.0",
@@ -59,7 +59,7 @@
     "karma-phantomjs-launcher": "^1.0.1",
     "karma-requirejs": "^1.0.0",
     "merge-stream": "^1.0.0",
-    "nightwatch": "^0.9.6"
+    "nightwatch": "^1.7.11"
   },
   "engines": {
     "node": ">=0.8.0"
